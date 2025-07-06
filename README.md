@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on staying employed in the AI era
+- 🌱 I’m currently learning GitHub
+- 👯 I’m looking to collaborate on AI Projects
+- 🤔 I’m looking for help with all things related to software development
+- 😄 Pronouns: He/man
 <!--
 **mrmiloshr/mrmiloshr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
